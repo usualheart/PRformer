@@ -1,6 +1,22 @@
+
+
 # PRformer: Pyramidal Recurrent Transformer for Multivariate Time Series Forecasting
 
-The paper is about to be published on arXiv.
+paper link:   https://arxiv.org/abs/2408.10483
+
+cited as:
+
+```bib
+@misc{yu2024prformerpyramidalrecurrenttransformer,
+      title={PRformer: Pyramidal Recurrent Transformer for Multivariate Time Series Forecasting}, 
+      author={Yongbo Yu and Weizhong Yu and Feiping Nie and Xuelong Li},
+      year={2024},
+      eprint={2408.10483},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2408.10483}, 
+}
+```
 
 ## Introduction
 
